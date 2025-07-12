@@ -5,6 +5,9 @@
 -> Make a 2-d array and read and write it in a csv format
 
 # Assignment-2
+Numpy 
+
+# Assignment-3
 Task 1: Working with Series <br>
 Task 2: Creating and Inspecting DataFrames <br>
 Task 3: Data Selection and Filtering  <br>
