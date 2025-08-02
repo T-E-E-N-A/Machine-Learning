@@ -36,3 +36,19 @@
 
 ### General Questions
   To strengthen conceptual understanding of the differences, use cases, and assumptions of linear vs. logistic regression.
+
+## Assignment-5
+### NaiveBayes
+- Task 1: Theory Questions
+- Task 2: Spam Detection using MultinomialNB
+- Task 3: GaussianNB with Iris or Wine Dataset
+
+### Decision Tree
+- Task 4: Conceptual Questions
+- Task 5: Decision Tree on Titanic Dataset
+- Task 6: Model Tuning
+
+### Ensemble Learning – Bagging, Boosting, Random Forest
+- Task 7: Conceptual Questions
+- Task 8: Random Forest vs Decision Tree
+- Task 9: AdaBoost or Gradient Boosting
