@@ -1,9 +1,9 @@
 # Task 1: Theory Questions 
 
-1. What is the core assumption of Naive Bayes? <br>
+## 1. What is the core assumption of Naive Bayes? <br>
 
-        The core assumption is that all features (predictors) are conditionally independent given the class label. Despite being "naive," this simplification often performs well in practice, especially for text classification tasks.
-2. Differentiate between GaussianNB, MultinomialNB, and BernoulliNB. <br>
+    The core assumption is that all features (predictors) are conditionally independent given the class label. Despite being "naive," this simplification often performs well in practice, especially for text classification tasks.
+## 2. Differentiate between GaussianNB, MultinomialNB, and BernoulliNB. <br>
 
 
 #### GaussianNB
@@ -26,6 +26,6 @@
     Sometimes outperform MultinomialNB if the dataset is highly sparse and binary.
 
 
-3. Why is Naive Bayes considered suitable for high-dimensional data? <br>
+## 3. Why is Naive Bayes considered suitable for high-dimensional data? <br>
 
-        Its simplicity and efficiency stem from the conditional independence assumption, which avoids the curse of dimensionality. This makes it highly effective for tasks like spam detection or text categorization, where feature vectors are large.
+    Its simplicity and efficiency stem from the conditional independence assumption, which avoids the curse of dimensionality. This makes it highly effective for tasks like spam detection or text categorization, where feature vectors are large.
